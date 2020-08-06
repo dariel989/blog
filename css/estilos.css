@@ -1,60 +1,60 @@
-cuerpo
+body
 {
-    fondo : # 1e1f24 ;
-    color : # 333 ;
-    alinear texto : centro;
-    Familia tipográfica : Arial;
-    tamaño de fuente : 16 px ;
-    margen : 0 ;
-    acolchado : 0 ;
+    background: #1e1f24;
+    color: #333;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
-# cabecera
+#cabecera
 {
-    fondo : # 37488b ;
-    caja-sombra : 0 px  2 px  20 px  0 px  rgba ( 0 , 0 , 0 , 0.5 );
-    color : blanco
-    peso de fuente : negrita;
-    margen : 0 ;
-    acolchado : 0,5 em ;
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }
 
-# cabecera  # logo
+#cabecera #logo
 {
-    ancho : 20 px ;
-    alineación vertical : medio;
+    width: 20px;
+    vertical-align: middle;
 }
 
-# cabecera  # lema
+#cabecera #tagline
 {
-    relleno : 0  0  0  1 em ;
-    peso de fuente : normal;
-    tamaño de fuente : 0.8 em ;
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
-# contenedor
+#container
 {
-    ancho : 70 % ;
-    acolchado : 0 ;
-    alineación de texto : izquierda;
-    borde : 1 px sólido # DDD ;
-    margen : 0 automático;
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
 }
 
-# contenedor  h1
+#container h1
 {
-    tamaño de fuente : 20 px ;
+    font-size: 20px;
 }
-# post
+#post
 {
-    fondo : blanco;
-    relleno : 1 em ;
+    background: white;
+    padding: 1em;
 }
 
-# pie de página
+#footer
 {
-    fondo : # 777 ;
-    color : blanco
-    alinear texto : centro;
-    acolchado : 0,5 em ;
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
