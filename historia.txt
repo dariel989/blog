@@ -6,4 +6,4 @@ para probar por primera vez un las versiones de git
 
 este parrafo nuevo para reflejar los cambios 
 
- dariel perezmartinez.
+darwin dariel perez martinez.
