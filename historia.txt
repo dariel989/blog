@@ -6,6 +6,7 @@ para probar por primera vez un las versiones de git
 
 master 1
 
+experimento 1
 
 este parrafo nuevo para reflejar los cambios 
 
