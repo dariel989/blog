@@ -4,6 +4,9 @@ este es un archivo de texto plano
 para probar por primera vez un las versiones de git
 
 
+master 1
+
+
 este parrafo nuevo para reflejar los cambios 
 
 darwin dariel perez martinez.
